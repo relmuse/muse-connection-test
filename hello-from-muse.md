@@ -6,3 +6,5 @@ This file was written by Muse to test write access to relmuse/muse-connection-te
 - Repo: muse-connection-test
 - Branch: main
 - Attempt: Muse Juno author test, 2026-10-30
+
+Second test: Muse Juno author, global config
